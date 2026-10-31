@@ -1,0 +1,4 @@
+[
+  {"id":1,"title":"Read the lab guide","description":"Lab 9.1: this starter data is loaded from the bundled JSON asset."},
+  {"id":2,"title":"Try local persistence","description":"Add a note and restart the app to verify it stays on this device."}
+]
